@@ -27,7 +27,7 @@ The second section builds upon the first and introduces you to more advanced top
 To earn this certification, you'll build **5 React-apps** and **5 Data visualization apps** using `D3.js`.
 
 ##### 3. Back End Certification
-The third section introduces you to back end development using `Node.js, Express,` and `MongoDB`. It also teaches you about the important concept of source control using `Git`.
+The third section introduces you to back end development using `Node.js, Express,` and `MongoDB`. It also teaches you about the important concept ans uses of source control through using `Git`.
 
 To earn this certification, you'll build **5 APIs** and **5 full stack apps**.
 
